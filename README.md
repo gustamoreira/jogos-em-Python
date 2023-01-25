@@ -1,6 +1,6 @@
 # Jogos em Python | Adivinhação e Forca
 
-## Tecnologias utilizadas durante o curso
+## Tecnologia utilizada durante o curso
 * Python
 
 <div >
